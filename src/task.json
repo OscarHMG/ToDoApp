@@ -1,0 +1,39 @@
+{
+    "toDos":[
+        {
+            "id": 1,
+            "title" : "TASK 1",
+            "responsable": "Oscar Moncayo",
+            "description": "Cambiar WebApp",
+            "priority": "High"
+        },
+        {
+            "id": 2,
+            "title" : "TASK 2",
+            "responsable": "Hernan Moncayo",
+            "description": "Cambiar Admin",
+            "priority": "Low"
+        },
+        {
+            "id": 3,
+            "title" : "TASK 3",
+            "responsable": "Marco Polo",
+            "description": "Refactorizar JS's",
+            "priority": "High"
+        },
+        {
+            "id": 4,
+            "title" : "TASK 4",
+            "responsable": "Mery Scholes",
+            "description": "ENPOINT generico",
+            "priority": "High"
+        },
+        {
+            "id": 5,
+            "title" : "TASK 5",
+            "responsable": "Oscar Moncayo",
+            "description": "Cambios en login",
+            "priority": "Medium"
+        }
+    ]
+}
